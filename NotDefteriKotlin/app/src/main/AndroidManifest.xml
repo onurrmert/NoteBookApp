@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.onurmert.notdefterikotlin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/notdefterikotlinikon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/notdefterikotlinikon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NotDefteriKotlin">
+        <activity
+            android:name=".View.NoteDetailPage"
+            android:exported="false" />
+        <activity
+            android:name=".View.UPdatePage"
+            android:exported="false" />
+        <activity
+            android:name=".View.SavePage"
+            android:exported="false" />
+        <activity
+            android:name=".View.CurrentPage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

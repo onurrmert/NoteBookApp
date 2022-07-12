@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/drawable/button_bacground.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/drawable/edit_text_bacground.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/drawable/ic_delete.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/drawable/ic_note_add.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/drawable/icnote.xml" value="0.3314814814814815" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_akis_sayfasi.xml" value="0.33" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_current_page.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_guncelleme_sayfasi.xml" value="0.3383152173913043" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_kaydetme_sayfasi.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_main.xml" value="0.34646739130434784" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_not_detayi_sayfasi.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_note_detail_page.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_save_page.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/activity_update_page.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/akis_recycler_row.xml" value="0.3383152173913043" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/layout/current_recycler_row.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/menu/bottom_menu.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/USER/NotDefteriKotlin/app/src/main/res/menu/popup_menu.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
