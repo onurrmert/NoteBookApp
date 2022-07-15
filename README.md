@@ -7,7 +7,7 @@ A notepad app,  this app is the basis of database design of an offline app and a
 -MVVM design pattern<br>
 
 
-Application save page, here user saves note and title 1
+Application save page, here user saves note and title. The user just needs to press the button below to save
 ![Screenshot_20220714-131309_Not Defteri Kotlin](https://user-images.githubusercontent.com/67163842/179186363-3db631ff-e942-4c0e-a3b2-e0cacf6304a8.jpg)
 
 
@@ -17,12 +17,12 @@ Application save page, here user saves note and title 2
 
 
 
-App current page, saved notes are shown here
+App current page, saved notes are shown here, User previously saved notes are here
 ![Screenshot_20220714-131458_Not Defteri Kotlin](https://user-images.githubusercontent.com/67163842/179186393-7fb3797f-8fcd-4496-b60d-d884c23b6e84.jpg)
 
 
 
-Popup menu for deletion and update operations
+Popup menu for deletion and update operations, The user can delete or update if desired.
 ![Screenshot_20220714-131506_Not Defteri Kotlin](https://user-images.githubusercontent.com/67163842/179186418-9d4aeb0a-d61a-46b6-8f5c-5c2173391bca.jpg)
 
 
